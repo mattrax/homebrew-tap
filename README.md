@@ -1,2 +1,3 @@
-# homebrew-mattrax
-Homebrew tap for Mattrax tools
+# Mattrax Homebrew Tap
+
+[Homebrew Tap](https://docs.brew.sh/Taps) for Mattrax projects.
